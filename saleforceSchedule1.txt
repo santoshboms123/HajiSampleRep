@@ -1,0 +1,44 @@
+Manfacturing Unit : 
+
+Sales Unit : 
+
+Service Unit : 
+
+CRM : SAles and Service and all the fields which revolves around sales and service 
+
+
+Sales Unit : 
+
+Tagret market - marketing strategies - distribution channel - Locations - Sources of leads - existing database - 
+
+
+Campaign - Advertisement- email - phone - door2door- media - social - Event - Workshops 
+Leads - Lead Management 
+Account 
+Contact 
+Opportunity - 0% - 100% - Opportunity Management 
+Forecast
+Reports and dashboards 
+
+
+Products 
+PriceBooks 
+Contracts 
+Orders 
+
+Sales Cloud : Its a predefined software which enables Sales Process on Force.com platform. 
+	      You can also customize the software 
+
+Standard - Its predefined by salesforce 
+Custom : Its  defined by a administrator. 
+
+
+
+
+
+
+
+
+Salesforce being :
+
+ 
